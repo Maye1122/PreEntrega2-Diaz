@@ -64,7 +64,7 @@ nav.navbar.menuMd {
 /* ----------------Cuerpo------------- */
 
 main {
-	background-image: url(/assets/img/Fondo.jpg);
+	background-image: url(../assets/img/Fondo.jpg);
 	background-size: cover;
 	background-blend-mode: overlay;
 }
@@ -196,7 +196,7 @@ footer {
 		font-size: small;
 	}
 }
-/* ---texto responsive */
+/* ---texto - Cambio a pantalla chica responsive */
 @media (max-width: 723px) {
 	#carouselExampleCaptions {
 		display: none;
