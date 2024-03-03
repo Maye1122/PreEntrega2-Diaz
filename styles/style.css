@@ -87,7 +87,7 @@ button.btn:hover {
 div.col {
 	border: 2px solid var(--colorCuerpo);
 	margin: 1%;
-	padding-bottom: 5%;
+	padding-bottom: 1%;
 	height: 60vh;
 	border-radius: 1%;
 	-webkit-border-radius: 1%;
@@ -181,7 +181,7 @@ footer {
 
 @media (max-width: 576px) {
 	div.col {
-		height: 45vh;
+		height: 55vh;
 	}
 }
 
